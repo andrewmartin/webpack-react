@@ -1,6 +1,8 @@
 - [React / Redux Demo App](#react--redux-demo-app)
   - [Quickstart](#quickstart)
-    - [Production](#production)# React / Redux Demo App
+    - [Production](#production)
+
+# React / Redux Demo App
 
 ## Quickstart
 
